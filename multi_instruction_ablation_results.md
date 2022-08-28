@@ -8,7 +8,8 @@ Original/MVI_1/MVI_2/MVI_3/MVI_4/MVI_5/MVI_6/MVI_7/MVI_All = \
 41.97/44.34/71.02/75.20/80.27/81.74/86.05/53.63/45.65,\
 for 1%, 5%, 10%, 50% and 100% instances respectively
 
-Multi-Task 
+Multi-Task
+
 Original/MVI_1/MVI_2/MVI_3/MVI_All = \
 15.84/37.03/40.93/64.08/50.4, \
 45.13/55.38/55.80/56.46/56.49, \
