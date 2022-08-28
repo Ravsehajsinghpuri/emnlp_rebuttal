@@ -5,7 +5,7 @@ Original/MVI_1/MVI_2/MVI_3/MVI_4/MVI_5/MVI_6/MVI_7/MVI_All =
 0.23/37.31/41.03/42.30/42.95/43.59/42.4/41.23/36.75,
 37.00/44.25/59.30/57.18/59.45/61.82/62.93/44.14/43.02,
 41.97/44.34/71.02/75.20/80.27/81.74/86.05/53.63/45.65,
-for 1%, 5%, 10%, 50% and 100% instances respectively
+for 1%, 5%, 10%, 50% and 100% instances respectively\
 
 Multi-Task 
 Original/MVI_1/MVI_2/MVI_3/MVI_All = 
